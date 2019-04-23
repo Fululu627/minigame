@@ -1,0 +1,7 @@
+BeltGenerate,Name,Probability,PrefabName
+0,普通,35,CommanBelt
+1,减速,50,SlowBelt
+2,加速,70,AccelerateBelt
+3,冰,80,AceBelt
+4,火,90,FireBelt
+5,消失,100,DisableBelt
